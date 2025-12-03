@@ -1,0 +1,1 @@
+# spoticon-site-assets
